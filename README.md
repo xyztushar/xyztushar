@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> 
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
   <a href="https://www.youtube.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&..." />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" />
 </a>
 <a href="https://twitter.com/xyztushar" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&..." />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" />
 </a>
 </div>
 
