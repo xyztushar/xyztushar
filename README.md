@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Tushar Nipane from Nagpur, Maharashtra<br><br>- 🔭 I’m working as a part-time SDE<br>- 📚 I'm doing B.Tech in Computer Science<br>- ⚡ In my free time, I build cool stuff.</p>
+<p align="left">I'm Tushar Nipane from Nagpur, Maharashtra<br><br>- 🔭 Focused on systems, automation, and high-leverage engineering.<br>- 📚 I'm doing B.Tech in Computer Science<br>- ⚡ In my free time, I build cool stuff.</p>
 
 ###
 <!--
